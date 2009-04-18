@@ -35,7 +35,7 @@ require_once 'includes/lockablog_css.php';
 define ('LOCKABLOG_PATH',ABSPATH.'/'.PLUGINDIR.'/lockablog/');
 define ('LOCKABLOG_PAGESPATH', ABSPATH.'/'.PLUGINDIR.'/lockablog/pages');
 define ('LOCKABLOG_TRANSLATEDIR', PLUGINDIR.'/lockablog/translation');
-define ('LOCKABLOG_TRANSLATIONDOMAIN', PLUGINDIR.'/lockablog/translation');
+define ('LOCKABLOG_TRANSLATIONDOMAIN', 'lockablog');
 define ('LOCKABLOG_PLUGINURL', get_bloginfo ( 'wpurl' ).'/wp-content/plugins/lockablog/');
 define ('LOCKABLOG_DEFAULT_MESSAGE', __('This content is blocked from non adult people what is your age ?.', LOCKABLOG_TRANSLATIONDOMAIN));
 define ('LOCKABLOG_NUONCETARGET', plugin_basename(__FILE__));
@@ -49,7 +49,7 @@ function lockablog_init_translation()
 	
 	load_plugin_textdomain(LOCKABLOG_TRANSLATIONDOMAIN, LOCKABLOG_TRANSLATEDIR);
 }
-add_action('init', 'init_translation');
+add_action('init', 'lockablog_init_translation');
 
 
 if (!function_exists ('print_rn'))
