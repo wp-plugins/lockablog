@@ -1,0 +1,7 @@
+.lockablog_container { background-color:#FFF; width: 248px; color:#000}
+.lockablog_message { }
+.lockablog_image { float: left; background:url(images/lock.png) no-repeat; height: 49px; width: 45px; };
+.lockablog_age { display: inline; }
+.lockablog_submit { margin: 0 auto; width: 102px}
+.lockablog_container select { display: inline; width: 169px}
+.lockablog_clear { clear: both; }

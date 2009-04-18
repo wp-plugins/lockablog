@@ -1,0 +1,548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitme 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-31 23:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Johnny Mast <info@webnation.nl>\n"
+"Language-Team: Twitme translation team <info@phpvrouwen.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme\n"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:56
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:115
+msgid "ago from"
+msgstr "Geleden van"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:60
+msgid "unmark as favorite"
+msgstr "Markeer net langer als favoriet"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:64
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:129
+msgid "Delete this message"
+msgstr "Wis dit bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:74
+msgid "You have no favorites yet"
+msgstr "Je hebt nog geen favorieten"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:122
+msgid "Unmark this message as Favorite"
+msgstr "Markeer net langer als favoriet"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:125
+msgid "Mark this message as Favorite"
+msgstr "Markeer dit bericht als favoriet"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:132
+msgid "Reply to this message"
+msgstr "Stuur een antwoord op dit bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:143
+msgid "Show newer posts"
+msgstr "Toon nieuwere posts"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:148
+msgid "Show older posts"
+msgstr "Toon oudere posts"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:153
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:155
+msgid "There are no public messages"
+msgstr "Er zijn nog geen publieke boodschappen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:205
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:268
+msgid "ago"
+msgstr "geleden"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:209
+msgid "Reply directly to this message"
+msgstr "Reageer direct op dit bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:210
+msgid "Delete this direct message"
+msgstr "verwijder dit prive bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:220
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:222
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:279
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitAjax.php:281
+msgid "There are no inbound messages"
+msgstr "Er zijn nog geen berichten binnen gekomen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitFilters.php:90
+#, php-format
+msgid " New Blog post %s%s"
+msgstr "Nieuwe blog post %s %s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitFilters.php:109
+#, php-format
+msgid " New Blog post %s %s"
+msgstr " Nieuwe blog post %s %s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitme.php:36
+msgid "New Blog Post on %BLOGNAME% you can find it here %POSTURL%"
+msgstr "Nieuwe blogpost op %BLOGNAME% u kunt het hier terug lezen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitme.php:37
+msgid "Thank you for following me."
+msgstr "Wat leuk dat je me volgt"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitMenus.php:37
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:15
+msgid "TwitMe Options"
+msgstr "Twitme Opties"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitMenus.php:42
+msgid "Manage your Twitter Community (Twitme`s)"
+msgstr "Beheer je Twitter community (Twitme`s)"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitMenus.php:42
+msgid "TwitsMe`s"
+msgstr "TwitsMe`s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitMenus.php:51
+#, fuzzy
+msgid "Twitme`s"
+msgstr "TwitsMe`s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitMenus.php:52
+msgid "Twitme Settings"
+msgstr "Twitme Instellingen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitOptions.php:48
+msgid "The messages have been send to Twitter"
+msgstr "Het bericht is verstuurt naar twitter"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitOptions.php:58
+msgid "Repost successful"
+msgstr "Successvol gepost"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitOptions.php:70
+msgid "Logged in successfully"
+msgstr "Login was successvol"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitOptions.php:72
+msgid "Error: could not login to Twitter."
+msgstr "Error: Kon niet inloggen bij Twitter"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitOptions.php:122
+msgid "Your Twitme settings are saved."
+msgstr "Uw Twitme instellingen zijn betwaard"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/twitSubmitall.php:73
+#, php-format
+msgid "Submitting <strong>%s</strong><br />"
+msgstr "Verzenden <strong>%s</strong><br />"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:19
+msgid "close"
+msgstr "sluiten"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:104
+#, php-format
+msgid "Your message has been send to %s"
+msgstr "Uw bericht is verstuurt naar %s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:193
+msgid "Posts that TwitMe has submitted to Twitter"
+msgstr "Posts die al naar Twitter verstuurt zijn"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:196
+msgid "On this page you will find the names of the posts that TwitMe has send over to Twitter."
+msgstr "Op deze pagina vind u de posts die Twitme al naar Twitter heefd verstuurd"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:203
+msgid "Submit all"
+msgstr "Verzend alles "
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:205
+#, php-format
+msgid "You have (%s) Post(s) that are not yet submitted to Twitter. You can press the <strong>submit all</strong> button to submit the stories that have not been posted to Twitter yet"
+msgstr "U heefd (%s) Post(s) die nog niet naar Twitter verzonden zijn. Om dit als nog te doen kunt u op de <strong>alles verzenden</strong> button drukken"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:221
+#, fuzzy
+msgid "No posts have been send and you have ly no posts to submit to Twitter"
+msgstr "Er zijn nog posts naar Twitter verzonden en u heefd ook geen posts om te verzenden"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:231
+msgid "No posts have been submitted YET. If you want to submit all available stories press the submit all button"
+msgstr "Er zijn nog geen posts naar Twitter verzonden. Om dit als nog te doen drukt u op de button \"Alles verzenden\""
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:251
+msgid "Post ID"
+msgstr "Post nummer"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:252
+msgid "Author"
+msgstr "Autheur"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:253
+msgid "Title"
+msgstr "Titel"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:254
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:255
+msgid "Date"
+msgstr "Datum"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:256
+msgid "Action"
+msgstr "Actie"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:270
+msgid "Resend"
+msgstr "Opnieuw versturen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:294
+msgid "These are you followers"
+msgstr "Dit zijn uw volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:299
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:301
+msgid "Prev"
+msgstr "Vorige"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:306
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:308
+msgid "Next"
+msgstr "Volgende"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:320
+msgid "You have no followers yet"
+msgstr "U heefd nog geen volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:369
+msgid "Send an update to twitter"
+msgstr "Stuur een bericht naar Twitter"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:377
+msgid "Timeline"
+msgstr "Tijdslijn"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:378
+msgid "Favorites"
+msgstr "Favorieten"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:379
+msgid "Inbox"
+msgstr "Inbox"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:380
+msgid "Outbox"
+msgstr "Uitbox"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:384
+msgid "Twit Map"
+msgstr "Twit Map"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:388
+msgid "About"
+msgstr "Over"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:398
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:573
+msgid "140 chars remaining"
+msgstr "140 Tekens over"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:401
+msgid "Your Twitter page"
+msgstr "Uw Twitter pagina"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:403
+msgid "Send update"
+msgstr "Vesturen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:404
+msgid "Refresh list"
+msgstr "Ververs lijst"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:413
+msgid "Loading Twitmode please wait..."
+msgstr "Bezig met laden even geduld"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:418
+msgid "What are these icons i see ?."
+msgstr "Wat betekenen de iconen die ik zie?"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:419
+msgid "Since version 1.6 of the Twitme plugin i have added some new features and icons that bring Twitter closer to you."
+msgstr "Zins versie 1.6 van de Twitme plugin heb ik nieuwe iconen tegevoegd, Dit deze iconen zijn herkenbaar en brengen Twitter dichterbij."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:422
+msgid "Delete a message"
+msgstr "Wis een bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:422
+msgid "This icon shows up next to your messages. By pressing this icon you can delete that message."
+msgstr "Dit icoon staat naast uw berichten. Als u op dit icoon klikt kunt u het bericht willen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:423
+msgid "Send a message"
+msgstr "Verstuur een bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:423
+msgid "This icon can be used to reply quickly to some one`s message."
+msgstr "Druk op deze button om meteen te reageren op een bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:424
+msgid "Add to Favorites icon"
+msgstr "Favoriten icon"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:424
+msgid "This icon indicates that you can add this message to your Favorites"
+msgstr "Dit icon verteld u dat dit bericht als favoriet kunt markeren"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:425
+msgid "This message is marked as Favorite"
+msgstr "Dit bericht is gemarkeerd als favoriet"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:425
+msgid "This icon indicates that this message is on your Favorites list"
+msgstr "This icon laat zien dat dit bericht een favoriet bericht is"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:426
+#, fuzzy
+msgid "Reply directly to this message reply icon"
+msgstr "Verstuur direct een antwoord op dit bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:426
+msgid "Press this icon to reply directly to a incomming message"
+msgstr "Druk op deze button om meteen te reageren op een binnen komend bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:437
+msgid "Loading favorites please wait..."
+msgstr "Bezig met laden favorieten een ogenblik geduld."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:447
+msgid "No Followers"
+msgstr "Geen volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:461
+#, php-format
+msgid "Send %s a Message"
+msgstr "Send %s een bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:508
+#, php-format
+msgid "Twitme version %s running on Wordpress %s"
+msgstr "Twitme versie %s draaiende op Wordpress versie %s"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:514
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:28
+msgid "Donate to Twitme"
+msgstr "Doneren aan Twitme"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:519
+msgid "Development"
+msgstr "Ontwikkeling"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:523
+msgid "Design"
+msgstr "Ontwerp"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:527
+msgid "Translation"
+msgstr "Vertaling"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:528
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:529
+msgid "German"
+msgstr "Duits"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:530
+msgid "Italian"
+msgstr "Italiaans"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:531
+msgid "English"
+msgstr "Engels"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:532
+msgid "Spanish"
+msgstr "Spaans"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:535
+msgid "Bug Reports and ideas"
+msgstr "Fout raporten en sugesties"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:555
+msgid "Loading please wait..."
+msgstr "Bezig met laden een ogenblik gedult."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:568
+msgid "Message:"
+msgstr "Bericht:"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:576
+msgid "Send Message"
+msgstr "Verstuur bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/manage.php:580
+msgid "you can close this window by pressing the close icon or press escape on your keyboard."
+msgstr "U kunt dit scherm sluiten door op de \"sluiten\" button te drukken of door op escape te drukken op uw keyboard."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:18
+#, php-format
+msgid "In order to make the connection between <em>%s</em> and Twitter we need your username and password for so that we can login into Twitter. It is wise to press the <em>test now</em> button so you are sure that your connection to Twitter will work well. Please dont forget to press the save settings button to store your settings. "
+msgstr "Om een verbinding te maken tussen <em>%s</em> en Twitter zullen we uw gebruikersnaam en wachtwoord nodig hebben zo dat u kunt inloggen bij Twitter. Het is wijs om daarna op de <em>Nu Testen</em> button te drukken om het inloggen te testen. Vergeet echter niet op de \"Instellingen bewaren\" button te drukken."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:19
+msgid "Note: "
+msgstr "Notitie:"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:20
+msgid ""
+"If the message sent to Twitter is longer then 140 chars (Twitters Max) then the plugin will automaticly switch to\n"
+"      \"Summary\" modes even if you have \"Template\" modes selected."
+msgstr "Als het bericht wat naar Twitter word verstuurd langer is als 140 tekens (Twitters maximum) dan zal Twitme automatish overgaan in \"Overzicht\" modes, ook als u template modes geselecteerd heefd."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:38
+msgid "Twitter Username"
+msgstr "Twitter gebruikersnaam"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:42
+msgid "Twitter Password"
+msgstr "Twitter wachtwoord"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:46
+msgid "Twitter Message"
+msgstr "Twitter bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:49
+msgid ""
+"You can alter this message \n"
+"         but leave the template tags in tackt !."
+msgstr "U kunt dit bericht veranderen maar laat de template tags alstublieft in tact!."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:51
+msgid "Allowed Tags:"
+msgstr "Toegestane tags"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:64
+msgid "Exclude Categories"
+msgstr "Categorieën Buitensluiten"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:66
+msgid "If you are creating new posts from rss feeds or you just want to exclude any category from being posted to Twitter please mark the related category checkbox(es). For Rss posts if you not use this option it could lead to mass posting to Twitter"
+msgstr "Als u posts importeerd van rss feeds dan kunt u nu categorieën buitensluiten zodat ze niet naar Twitter worden verstuurt. Markeer de checkbox van een categorie die u niet automatish wilt laten posten naar Twitter."
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:79
+#, fuzzy
+msgid "You did not add any categories yet."
+msgstr "Je hebt nog geen favorieten"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:102
+msgid "Google Maps key"
+msgstr "Google Maps key"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:105
+msgid "If you fill in a Google MAPS key you can see where on the world your Followers are located (Only if they filled in there location)"
+msgstr "Als u hier een google maps sleutel invult zullen de volgers die een lokatie worden weer gegeven op een google map op uw Twitme pagina"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:108
+msgid "Signup for your key"
+msgstr "Verkrijg een Google sleutel"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:111
+msgid "Enable Auto post"
+msgstr "Zet automatish versturen van posts"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:112
+msgid "If you turn this option off Twitme will not send the message automaticly any more (this option is turned on by default)"
+msgstr "Als u deze optie uitschakeld worden uw posts niet meer automatish naat Twitter verstuurt (Deze optie staat standaard aan)"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:123
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:145
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:167
+msgid "On"
+msgstr "Aan"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:127
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:149
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:172
+msgid "Off"
+msgstr "Uit"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:133
+msgid "Send on edit post"
+msgstr "Verstuur posts dit aangepast zijn"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:134
+msgid "Publish your posts to Twitter if you have edited a post (this option is turned off by default)"
+msgstr "Verstuur een post naar Twitter als u een post heefd aangepast (deze optie staat standaard uit)"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:154
+msgid "Use short urls"
+msgstr "Gebruik korte urls"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:156
+msgid ""
+"You can enable this option if you want to shorten the urls in the twitter posts. (This option is turned off by default)\n"
+"        "
+msgstr "U kunt deze optie gebruiken om urls af te korten. (Deze optie staat standaard uit)\n"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:176
+msgid "Twitter Followers"
+msgstr "Twitter volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:177
+msgid "If desired send this messge to new Followers on twitter."
+msgstr "Send dit bericht naar nieuwe volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:181
+msgid "Notify new Followers"
+msgstr "Bedank nieuwe volgers"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:192
+msgid "Yes"
+msgstr "Ja"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:196
+msgid "No"
+msgstr "Nee"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:201
+msgid "Report method"
+msgstr "Gebruik methode"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:212
+msgid "Use message template"
+msgstr "Gebruik template bericht"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:216
+msgid "Use Post summary"
+msgstr "Gebruik overzicht modes"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:221
+msgid "Test now"
+msgstr "Nu Testen"
+
+#: /Users/mastjohnny/Sites/wp/wp-content/plugins/twitme/pages/settings.php:222
+msgid "Save settings"
+msgstr "Instellingen bewaren"
+
+#~ msgid "Reply to this message directly"
+#~ msgstr "Verstuur direct een antwoord op dit bericht"
+#~ msgid "Direct reply icon"
+#~ msgstr "Direct reageren"
+#~ msgid ""
+#~ "This icon is visible when some one sends you a @ message, by pressing "
+#~ "this icon you can quickly reply tho this message."
+#~ msgstr "Dit icoon is zichtbaar als iemand u een @ bericht heefd verstuurd"
+
